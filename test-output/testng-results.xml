@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Reading urlfrom property file]]>
+    </line>
+    <line>
+      <![CDATA[launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign in Button]]>
+    </line>
+    <line>
+      <![CDATA[Reading mobileNumfrom property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobileNumber]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 3000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on SignIN Button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 3000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading passwordfrom property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 4000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering password]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 5000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit Button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Handling popup]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Ok button of popup]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[clicking on close button of popup]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[getting accbalance]]>
+    </line>
+    <line>
+      <![CDATA[Account balance isRs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[getting accbalance]]>
+    </line>
+    <line>
+      <![CDATA[Account balance isRs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[Ac balance isRs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[TC validateAccBalance success]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[logging out]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign in Button]]>
+    </line>
+    <line>
+      <![CDATA[Reading mobileNumfrom property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobileNumber]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 3000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on SignIN Button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 3000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading passwordfrom property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 4000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering password]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 5000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit Button]]>
+    </line>
+    <line>
+      <![CDATA[there is no popup]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[getting actual user name]]>
+    </line>
+    <line>
+      <![CDATA[Reading userNamefrom property file]]>
+    </line>
+    <line>
+      <![CDATA[TC validateUserID success]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[logging out]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 2000 ms]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-03T13:19:21 IST" name="Default suite" finished-at="2022-12-03T13:21:32 IST" duration-ms="130775">
+    <groups>
+    </groups>
+    <test started-at="2022-12-03T13:19:21 IST" name="Default test" finished-at="2022-12-03T13:21:32 IST" duration-ms="130775">
+      <class name="neoStoxTest.ValidateNeoStoxAccBalance2">
+        <test-method is-config="true" signature="launchNeoStox()[pri:0, instance:neoStoxTest.ValidateNeoStoxAccBalance2@5e0826e7]" started-at="2022-12-03T13:19:22 IST" name="launchNeoStox" finished-at="2022-12-03T13:19:55 IST" duration-ms="33792" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading urlfrom property file]]>
+            </line>
+            <line>
+              <![CDATA[launching Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchNeoStox -->
+        <test-method is-config="true" signature="loginNeoStox()[pri:0, instance:neoStoxTest.ValidateNeoStoxAccBalance2@5e0826e7]" started-at="2022-12-03T13:19:55 IST" name="loginNeoStox" finished-at="2022-12-03T13:20:57 IST" duration-ms="61815" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign in Button]]>
+            </line>
+            <line>
+              <![CDATA[Reading mobileNumfrom property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobileNumber]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 3000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on SignIN Button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 3000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading passwordfrom property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 4000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering password]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 5000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit Button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Handling popup]]>
+            </line>
+            <line>
+              <![CDATA[clicking on Ok button of popup]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[clicking on close button of popup]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginNeoStox -->
+        <test-method signature="validateAccBalance()[pri:-1, instance:neoStoxTest.ValidateNeoStoxAccBalance2@5e0826e7]" started-at="2022-12-03T13:20:57 IST" name="validateAccBalance" finished-at="2022-12-03T13:20:57 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[getting accbalance]]>
+            </line>
+            <line>
+              <![CDATA[Account balance isRs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[getting accbalance]]>
+            </line>
+            <line>
+              <![CDATA[Account balance isRs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[Ac balance isRs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[TC validateAccBalance success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAccBalance -->
+        <test-method is-config="true" signature="logoutfromneoStox()[pri:0, instance:neoStoxTest.ValidateNeoStoxAccBalance2@5e0826e7]" started-at="2022-12-03T13:20:57 IST" name="logoutfromneoStox" finished-at="2022-12-03T13:20:58 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[logging out]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromneoStox -->
+        <test-method is-config="true" signature="loginNeoStox()[pri:0, instance:neoStoxTest.ValidateNeoStoxAccBalance2@5e0826e7]" started-at="2022-12-03T13:20:58 IST" name="loginNeoStox" finished-at="2022-12-03T13:21:23 IST" duration-ms="25636" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign in Button]]>
+            </line>
+            <line>
+              <![CDATA[Reading mobileNumfrom property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobileNumber]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 3000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on SignIN Button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 3000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading passwordfrom property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 4000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering password]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 5000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit Button]]>
+            </line>
+            <line>
+              <![CDATA[there is no popup]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginNeoStox -->
+        <test-method signature="validateUserID()[pri:0, instance:neoStoxTest.ValidateNeoStoxAccBalance2@5e0826e7]" started-at="2022-12-03T13:21:23 IST" name="validateUserID" finished-at="2022-12-03T13:21:24 IST" duration-ms="994" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[getting actual user name]]>
+            </line>
+            <line>
+              <![CDATA[Reading userNamefrom property file]]>
+            </line>
+            <line>
+              <![CDATA[TC validateUserID success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserID -->
+        <test-method is-config="true" signature="logoutfromneoStox()[pri:0, instance:neoStoxTest.ValidateNeoStoxAccBalance2@5e0826e7]" started-at="2022-12-03T13:21:24 IST" name="logoutfromneoStox" finished-at="2022-12-03T13:21:25 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+            <line>
+              <![CDATA[logging out]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 2000 ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromneoStox -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStoxTest.ValidateNeoStoxAccBalance2@5e0826e7]" started-at="2022-12-03T13:21:25 IST" name="closeBrowser" finished-at="2022-12-03T13:21:32 IST" duration-ms="7094" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- neoStoxTest.ValidateNeoStoxAccBalance2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
